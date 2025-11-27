@@ -264,7 +264,7 @@ tbody tr:last-child td {
 }
 
 /* Generated dynamic styles */
-.header { background-color: red; }
+.header { background-color: #EAE8E8; }
 .footer { background-color: #EAE8E8; }
 .body { background-color: #F8F7F8; }
 .main { background-color: #ffffff; }
